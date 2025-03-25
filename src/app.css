@@ -1,1 +1,8 @@
 @import 'tailwindcss';
+
+@theme {
+    --color-cloud: #DAE1E7;
+    --color-night: #171721;
+    --color-water: #5ec3b7;
+    --color-sky: #1b4ea7;
+}
